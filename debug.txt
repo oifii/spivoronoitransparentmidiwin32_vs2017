@@ -1,0 +1,6 @@
+D:\video\animals-vorotrans\
+random number generator seeded with 3168625
+DIR "D:\video\animals\\*.jpg"/B /S /O:N > spivoronoi_filenames.txt
+image filename D:\video\animals\01-endangered-species-mountain-gorilla(rgb-color-1-layer).jpg
+image filename D:\video\animals\03_06_2017_Bobby_Magill_CC_Polar_Bear_FB_1050_700_s_c1_c_c(scaled-1052x701).jpg
+image filename D:\video\animals\13_endangered_species_act-adapt-1900-1.jpg

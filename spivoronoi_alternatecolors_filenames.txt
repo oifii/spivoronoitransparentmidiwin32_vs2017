@@ -1,0 +1,8 @@
+D:\video\genetic(12000x12000)(set1)\frame_000002.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000006.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000007.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000011.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000013.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000023.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000025.jpg
+D:\video\genetic(12000x12000)(set1)\frame_000027.jpg

@@ -1,0 +1,20 @@
+BuildTriangleNetwork() start ... 
+
+  first sort ...
+  done.
+
+  second sort ...
+  done.
+
+  convex hull frontier creation start ...
+  convex hull frontier creation done.
+  start computing triangulation ...
+  done computing triangulation.
+
+  nombre de points qui coincident =  0
+  nombre de points rejetes        =  0
+  nombre de triangles construits  =  7251
+BuildTriangleNetwork() done.
+
+calling ComputeVoronoiAreaForAllVertex() start ... 
+calling ComputeVoronoiAreaForAllVertex() done. 
